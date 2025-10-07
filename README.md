@@ -7,8 +7,8 @@
 
 <h2> 🎥 LinkedIN Videos </h2> 
 
-  - [Resetting Password with Active Directory](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Using Remote Desktop](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Resetting Password with Active Directory](https://www.linkedin.com/feed/update/urn:li:activity:7360916850353876993/?originTrackingId=oNHT%2FZajQZCL%2FwWxCrKG3Q%3D%3D)
+  - [Using Remote Desktop](https://www.linkedin.com/feed/update/urn:li:activity:7358373729522937858/?originTrackingId=hrcmi2wSRU6bJImDxCuXFw%3D%3D)
 
 <h2> 📄 Certifications </h2> 
 
@@ -17,10 +17,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://www.linkedin.com/in/alexander-perez-profile/" />][linkedin]
 
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
