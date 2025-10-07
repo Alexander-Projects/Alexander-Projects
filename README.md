@@ -12,8 +12,8 @@
 
 <h2> 📄 Certifications </h2> 
 
-  - [CompTIA Security+](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Microsoft Fundamentals: Azure Fundamentals](https://github.com/joshmadakor1/Algorithms-Practice)
+  - CompTIA Security+
+  - Microsoft Fundamentals: Azure Fundamentals
 
 <h2> 🤳 Connect with me:</h2>
 
