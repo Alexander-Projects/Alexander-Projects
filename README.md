@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/Alexander-Projects/ActiveDirectoryLab/blob/main/README.md)
+  - 🖥️ [Active Directory Home Lab](https://github.com/Alexander-Projects/ActiveDirectoryLab/blob/main/README.md)
   - [VPN Installation](https://github.com/Alexander-Projects/VPNInstallation/blob/main/README.md)
 
 <h2> 🎥 LinkedIN Videos </h2> 
