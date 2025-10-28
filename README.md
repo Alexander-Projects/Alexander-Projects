@@ -4,7 +4,7 @@
 
   - 🖥️ [Active Directory Home Lab](https://github.com/Alexander-Projects/ActiveDirectoryLab/blob/main/README.md)
   - 🛡️ [VPN Installation](https://github.com/Alexander-Projects/VPNInstallation/blob/main/README.md)
-  - 🗺️ [SOC Project](https://github.com/Alexander-Projects/SOC-Project/blob/main/README.md)
+  - 🗺️ [SOC Project- Azure SIEM](https://github.com/Alexander-Projects/SOC-Project/blob/main/README.md)
 
 <h2> 🎥 LinkedIN Videos </h2> 
 
